@@ -14,12 +14,12 @@ Still currently WIP
 I plan to make this project open source in the future.
 
 ## What are some Features Planned?
--Full Spectrum EW Simulation
--Sensor Integration
--Functional Jamming and Location
--EW Support Aircraft (RC-135)
--AI Ability to Perform Radio Deception
--AI Ability to Use EW Tactics (Raid Jamming, Force Protection Jamming, Deception Tactics)
--Air/Ground Launched Decoys
--Ground Radar Deception Vehicles
--Cross Platform Control (DCS, Olympus, LOTATC)
+-Full Spectrum EW Simulation.<br>
+-Sensor Integration.<br>
+-Functional Jamming and Location.<br>
+-EW Support Aircraft (RC-135).<br>
+-AI Ability to Perform Radio Deception.<br>
+-AI Ability to Use EW Tactics (Raid Jamming, Force Protection Jamming, Deception Tactics).<br>
+-Air/Ground Launched Decoys.<br>
+-Ground Radar Deception Vehicles.<br>
+-Cross Platform Control (DCS, Olympus, LOTATC).<br>
